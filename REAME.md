@@ -1,4 +1,3 @@
-# Valami
+# SimpProg
 
-Ez egy teszt
-
+Programozás alapok egyszerűen kódok.

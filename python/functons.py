@@ -1,0 +1,6 @@
+def doublingNumber(num):
+    return num * 2
+
+for i in [1, 2, 3, 4]:
+    print(f'Dupla: {i} : {doublingNumber(i)}')
+    
